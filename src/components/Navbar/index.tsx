@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import logo from './logo.png';
 
 export const Navbar: React.FC<PropsWithChildren> = ({ children }) => (
-    <div className="Navbar">
+    <div className="Navbar shadow-card">
         <div className=" bg-custom-purple-800 text-white p-4 flex flex-col md:flex-row items-center justify-between">
             <div className="hover:bg-gray-900 p-2 rounded-lg">
                 <Link
