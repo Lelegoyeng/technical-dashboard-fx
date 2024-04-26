@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 ## Overview
 
 <div style="float: right;">
-    <img src="https://github.com/Lelegoyeng/technical-dashboard-fx/blob/main/src/assets/gambar1.png" alt="Gambar 1" width="600">
+    <img src="https://github.com/Lelegoyeng/technical-dashboard-fx/blob/main/src/assets/gambar1.png" alt="Gambar 1" width="912">
 </div>
